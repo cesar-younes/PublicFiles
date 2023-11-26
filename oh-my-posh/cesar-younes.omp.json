@@ -18,7 +18,7 @@
                         "always_enabled": true
                     },
                     "style": "plain",
-                    "template": " \ufa1e{{ .FormattedMs }} ",
+                    "template": " \uf252 {{ .FormattedMs }} ",
                     "type": "executiontime"
                 }
             ],
